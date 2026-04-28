@@ -1,4 +1,4 @@
-# contabilidade
+# RRM Contabilidade
 
 Projeto de exemplo para organização de arquivos e processos de contabilidade.
 
